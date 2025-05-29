@@ -12,6 +12,14 @@ header {
   color: white;
   padding: 40px 20px;
   text-align: center;
+  .imagem-canto {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  width: 100px; /* ajuste o tamanho conforme quiser */
+  z-index: 1000; /* garante que fique por cima de outros elementos */
+}
+
 }
 
 section {
