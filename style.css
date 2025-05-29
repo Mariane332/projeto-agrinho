@@ -32,13 +32,13 @@ p {
   padding: 12px 24px;
   margin-top: 20px;
   background-color: #4CAF50;
-  color: white;
+  color: rgb(127, 155, 119);
   text-decoration: none;
   border-radius: 5px;
 }
 
 footer {
-  background-color: #333;
+  background-color: #344637;
   color: white;
   text-align: center;
   padding: 20px;
